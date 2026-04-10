@@ -3,5 +3,5 @@
 ${\textsf{\color{#482524}child}}$
 ${\textsf{\color{#723521}day}}$
 ${\textsf{\color{#482524}is}}$
-${\textsf{\color{#723521}ypung}}$
+${\textsf{\color{#723521}young}}$
 **[strawpage](https://archesthewind.straw.page/)**
